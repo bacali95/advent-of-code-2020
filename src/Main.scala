@@ -12,6 +12,7 @@ object Main {
 //    runDay(14)
 //    runDay(15)
 //    runDay(16)
-    runDay(17)
+//    runDay(17)
+    runDay(18)
   }
 }

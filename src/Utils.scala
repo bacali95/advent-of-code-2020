@@ -27,6 +27,7 @@ object Utils {
       case 15 => Day15(data)
       case 16 => Day16(data)
       case 17 => Day17(data)
+      case 18 => Day18(data)
     }
     dayX.partOne()
     dayX.partTwo()
