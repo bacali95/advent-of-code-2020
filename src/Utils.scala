@@ -30,6 +30,7 @@ object Utils {
       case 18 => Day18(data)
       case 19 => Day19(data)
       case 20 => Day20(data)
+      case 21 => Day21(data)
       case 22 => Day22(data)
       case 23 => Day23(data)
       case 24 => Day24(data)
